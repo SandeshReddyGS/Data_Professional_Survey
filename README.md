@@ -1,5 +1,22 @@
 # Data Professional Survey Breakdown Dashboard
+
+## Project Overview : 
+
+The Data Professional Survey Breakdown project is dedicated to the in-depth analysis and visualization of a dataset curated by #Alextheanalyst.The visualization facet was exclusively crafted in Power BI to effectively showcase key insights.
+
+### Dataset Details
+Source: Dataset collected by Alextheanalyst
+Tools Utilized: Excel, Power BI
+
+## Project Components
+
+Data Visualization
+The visualization segment was exclusively managed in Power BI, resulting in a robust dashboard that encapsulates the essence of the analyzed data.
+
+- Dashboard Overview
+
 ![PowerBI Dashboard](https://github.com/user-attachments/assets/0958a81c-2720-4c4c-be3c-433dbaa6d58c)
+
 
 
 
