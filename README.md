@@ -4,10 +4,6 @@
 
 The Data Professional Survey Breakdown project is dedicated to the in-depth analysis and visualization of a dataset curated by #Alextheanalyst.The visualization facet was exclusively crafted in Power BI to effectively showcase key insights.
 
-### Dataset Details
-Source: Dataset collected by Alextheanalyst
-Tools Utilized: Excel, Power BI
-
 ## Project Components
 
 Data Visualization
@@ -37,6 +33,13 @@ The dashboard includes the following key sections:
 * Python is a widely favored programming language across various data professional roles.
 * The average age of survey respondents is approximately 30 years.
 * Satisfaction with work-life balance appears to be moderately positive, while salary satisfaction is slightly lower on average.
+
+#### Power BI Dashboard
+The aforementioned visualizations were collectively integrated into a Power BI dashboard, providing a holistic view of the insights derived from the Data Professional Survey Breakdown.
+
+Power BI Dashboard Access
+
+Access the Power BI dashboard to explore these visualizations in a dynamic and interactive format - - <a href="https://github.com/SandeshReddyGS/Data_Professional_Survey/blob/main/Data%20Professional%20Survey%20Dashboard.pbix">Data Set</a>
 
 ## Data Source 
 - <a href="https://github.com/SandeshReddyGS/Data_Professional_Survey/blob/main/dataprofessionalsurvey.xlsx">Data Set</a>
