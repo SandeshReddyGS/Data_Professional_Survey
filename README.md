@@ -39,7 +39,7 @@ The aforementioned visualizations were collectively integrated into a Power BI d
 
 Power BI Dashboard Access
 
-Access the Power BI dashboard to explore these visualizations in a dynamic and interactive format - - <a href="https://github.com/SandeshReddyGS/Data_Professional_Survey/blob/main/Data%20Professional%20Survey%20Dashboard.pbix">Data Set</a>
+Access the Power BI dashboard to explore these visualizations in a dynamic and interactive format - - <a href="https://github.com/SandeshReddyGS/Data_Professional_Survey/blob/main/Data%20Professional%20Survey%20Dashboard.pbix">LINK</a>
 
 ## Data Source 
 - <a href="https://github.com/SandeshReddyGS/Data_Professional_Survey/blob/main/dataprofessionalsurvey.xlsx">Data Set</a>
@@ -49,5 +49,5 @@ Access the Power BI dashboard to explore these visualizations in a dynamic and i
     * Data Visualization: Power BI
     * Data Analysis: Excel
 
-## Contributing 
+## Contribution 
 Contributions are welcome! Please feel free to submit pull requests or open issues for any suggestions or improvements.
